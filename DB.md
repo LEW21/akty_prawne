@@ -120,7 +120,7 @@
 ### Art. P5. Sukces lub porażka weta lub inicjatywy
 1. Niezwłocznie po zakończeniu okresu zgłaszania weta lub popierania inicjatywy i zakończeniu liczenia zgłoszonych oświadczeń, lub po zliczeniu wymaganej ustawowo liczby oświadczeń, Państwowa Komisja Wyborcza ogłasza czy dana inicjatywa lub weto odniosły sukces (tj. poparcie lub weto zgłosiła sumarycznie wystarczająca liczba uprawnionych do głosowania obywateli) czy porażkę, i publikuje informację o tym w biuletynie informacji publicznej.
 
-## Rozdział 4. Przepisy karne
+## Rozdział 5. Przepisy karne
 
 ### Art. K1.
 1. Kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej na karcie podpisów niezawierającej wymaganej w art. P3 ust. 1. pkt. b. adnotacji
@@ -139,7 +139,7 @@
 1. Kto niszczy lub celowo nie dostarcza w ustawowym terminie kart podpisów dot. inicjatywy lub weta obywatelskiego do Państwowej Komisji Wyborczej
   - podlega grzywnie od 1000 do 100 000 złotych.
 
-## Rozdział 5. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+## Rozdział 6. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 ### Art. Z1. Ustawa o referendum ogólnokrajowym
 W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2003 r. Nr 57, poz. 507, Nr 85, poz. 782, z 2007 r. Nr 112, poz. 766, z 2009 r. Nr 68, poz. 573, Nr 202, poz. 1547, z 2011 r. Nr 21, poz. 113, Nr 106, poz. 622, Nr 147, poz. 881.) wprowadza się następujące zmiany:
