@@ -7,11 +7,11 @@
 2. Zasady przeprowadzania głosowań reguluje ustawa z dnia 14 marca 2003 r. o referendum ogólnokrajowym.
 
 ### Art. 2. Referenda obligatoryjne
-1. Zgodnie z art. 4. ust. 1. Konstytucji RP, Narodowi przedstawia się pod głosowanie:
-   a. zmiany Konstytucji RP
-   b. przystąpienie do organizacji międzynarodowych;
-   c. dokonanie interwencji zbrojnej poza granicami kraju - za wyjątkiem interwencji w ramach działalności organizacji międzynarodowych, których Polska jest członkiem
-   d. zwiększenie długu publicznego
+1. Zgodnie z art. 4. ust. 1. Konstytucji RP, Narodowi przedstawia się pod głosowanie:  
+   a. zmiany Konstytucji RP;  
+   b. przystąpienie do organizacji międzynarodowych;  
+   c. dokonanie interwencji zbrojnej poza granicami kraju - za wyjątkiem interwencji w ramach działalności organizacji międzynarodowych, których Polska jest członkiem;  
+   d. zwiększenie długu publicznego  
 2. Działania te wchodzą w życie dopiero po ogłoszeniu wyniku głosowania.
 3. Decyzja Narodu jest wiążąca niezależnie od liczby głosujących.
 
@@ -23,8 +23,8 @@
 ### Art. 4. Weto obywatelskie
 1. Ustawy przyjęte przez Parlament, za wyjątkiem ustaw wymienionych w ust. 3, wchodzą w życie najwcześniej 100 dni po dacie przekazania ustawy do podpisu Prezydentowi.
 2. W ciągu wymienionych 100 dni, 200 000 uprawnionych do głosowania obywateli może zażądać przeprowadzenia referendum w sprawie przyjęcia danej ustawy. Jeśli tak się stanie, wejście w życie danej ustawy zostaje zawieszone do momentu przeprowadzenia referendum.
-3. Weto obywatelskie nie może dotyczyć:
-   a. ustawy budżetowej
+3. Weto obywatelskie nie może dotyczyć:  
+   a. ustawy budżetowej;  
    b. ustaw wprowadzanych na czas określony, nie dłuższy niż rok, nie dotyczących praw politycznych obywateli.
 
 ## Rozdział 2. Inicjatywa obywatelska
@@ -35,15 +35,15 @@
 3. Inicjatywa ws. zmiany lub uchylenia wybranej ustawy musi mieć formę ogólnej propozycji.
 4. Inicjatywa musi być jednolita pod względem formy i materii, a także pozostawać w zgodzie z wymogami prawa międzynarodowego.
 5. Inicjatywa ws. przyjęcia projektu ustawy, zmiany lub uchylenia wybranej ustawy musi być zgodna z Konstytucją RP.
-5. Tytuł inicjatywy musi być związany z jej treścią, nie może wprowadzać w błąd ani zawierać reklam.
+6. Tytuł inicjatywy musi być związany z jej treścią, nie może wprowadzać w błąd ani zawierać reklam.
 
 ### Art. I2. Zgłoszenie inicjatywy
 1. Inicjatywę może rozpocząć obywatel uprawniony do głosowania, stowarzyszenie, fundacja lub partia polityczna.
-2. Inicjatywę zgłasza się do Trybunału Konstytucyjnego. W zgłoszeniu podaje się:
-  a. imię i nazwisko lub nazwę podmiotu zgłaszającego, jego adres i numer PESEL (w przypadku osób fizycznych) lub NIP (w przypadku osób prawnych),
-  b. tytuł inicjatywy
-  c. formę inicjatywy,
-  d. projekt Konstytucji, ustawy, zmian w Konstytucji lub opis ogólnej propozycji - zgodnie z formą inicjatywy
+2. Inicjatywę zgłasza się do Trybunału Konstytucyjnego. W zgłoszeniu podaje się:  
+  a. imię i nazwisko lub nazwę podmiotu zgłaszającego, jego adres i numer PESEL (w przypadku osób fizycznych) lub NIP (w przypadku osób prawnych),  
+  b. tytuł inicjatywy,  
+  c. formę inicjatywy,  
+  d. projekt Konstytucji, ustawy, zmian w Konstytucji lub opis ogólnej propozycji - zgodnie z formą inicjatywy,  
   e. ocena skutków dla budżetu przyjęcia inicjatywy, wraz z proponowanymi źródłami finansowania jeśli są one negatywne
 3. Trybunał Konstytucyjny wydaje potwierdzenie zgłoszenia inicjatywy.
 4. Trybunał Konstytucyjny w ciągu 30 dni weryfikuje poprawność inicjatywy według art. I1. Jeżeli zweryfikuje ją negatywnie - ogłasza nieważność inicjatywy w drodze uchwały.
@@ -62,9 +62,9 @@
 
 ### Art. I5. Referendum
 1. Pytanie referendalne brzmi "Czy popierasz przyjęcie inicjatywy ..... (tytuł inicjatywy)?"
-2. Jeżeli Sejm RP przedstawił kontrpropozycję dla danej inicjatywy, zadawane są jednocześnie, na tej samej karcie do głosowania, trzy pytania:
-  a. "Czy popierasz inicjatywę ..... (tytuł inicjatywy) bardziej niż aktualne prawo?"
-  b. "Czy popierasz kontrpropozycję Sejmu wobec inicjatywy ..... (tytuł inicjatywy) bardziej niż aktualne prawo?"
+2. Jeżeli Sejm RP przedstawił kontrpropozycję dla danej inicjatywy, zadawane są jednocześnie, na tej samej karcie do głosowania, trzy pytania:  
+  a. "Czy popierasz inicjatywę ..... (tytuł inicjatywy) bardziej niż aktualne prawo?"  
+  b. "Czy popierasz kontrpropozycję Sejmu wobec inicjatywy ..... (tytuł inicjatywy) bardziej niż aktualne prawo?"  
   c. "Która z propozycji powinna wejść w życie jeżeli zarówno inicjatywa ..... (tytuł inicjatywy) i kontrpropozycja Sejmu wobec niej zostaną przyjęte?"
 3. Decyzja Narodu jest wiążąca niezależnie od liczby głosujących.
 4. Jeżeli przyjęta inicjatywa była ogólną propozycją, Sejm RP ma 12 miesięcy, liczone od dnia referendum, na przyjęcie ustawy realizującej daną propozycję. Po upływie tego terminu, jeśli nie udało mu się podjąć odpowiedniej ustawy, jego kadencja wygasa i prezydent rozpisuje nowe wybory parlamentarne.
@@ -101,8 +101,8 @@
 *Wyjaśnienie: Ust. 1. pozwala na zgłaszanie weta elektronicznie - zgodnie z art. 78. ust. 2. KC. Wymagany jest bezpieczny podpis elektroniczny z certyfikatem kwalifikowanym - zgodnie z programem DB powinniśmy wprowadzić e-dowody realizujące ten wymóg.*
 
 ### Art. P3. Karta podpisów
-1. Karta podpisów weta musi zawierać:
-   a. tytuł - zgodny z treścią oświadczenia woli opisanego w art. P1. ust. 1. lub art. P2. ust. 1.
+1. Karta podpisów weta musi zawierać:  
+   a. tytuł - zgodny z treścią oświadczenia woli opisanego w art. P1. ust. 1. lub art. P2. ust. 1.  
    b. adnotację "Fałszowanie kart podpisów, oferowanie lub przyjmowanie korzyści majątkowych w związku ze zbieraniem podpisów, a także niszczenie lub celowe niedostarczenie kart podpisów Państwowej Komisji Wyborczej w ustawowym terminie - jest przestępstwem."
 2. Obywatel zgłaszający weto na karcie podpisów składa podpis obok czytelnie wpisanego swojego imienia, nazwiska i numeru PESEL.
 3. Podpis niespełniający wymienionych warunków zostanie uznany przez Państwową Komisję Wyborczą za nieważny.
@@ -112,8 +112,8 @@
 2. Kolejne oświadczenia można przekazywać wielokrotnie.
 3. Przekazującym jest osoba fizyczna.
 4. W przypadku jednorazowego przekazania pakietu ponad 100 oświadczeń dot. poparcia jednej inicjatywy lub weta wobec jednej ustawy, przekazujący podaje Państwowej Komisji wyborczej swoje imię, nazwisko, numer PESEL i adres korespondencyjny.
-5. Po każdym przekazaniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy oświadczenia, a następnie:
-  a) jeżeli oświadczenia były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej imię i nazwisko przekazującego, a także liczbę ważnych i nieważnych oświadczeń, a także przekazuje tą informację na piśmie zgłaszającemu;
+5. Po każdym przekazaniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy oświadczenia, a następnie:  
+  a) jeżeli oświadczenia były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej imię i nazwisko przekazującego, a także liczbę ważnych i nieważnych oświadczeń, a także przekazuje tą informację na piśmie zgłaszającemu;  
   b) jeśli oświadczenia nie były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej sumaryczną liczbę ważnych oświadczeń przekazanych danego dnia.
 6. Przekazanie Państwowej Komisji Wyborczej wszystkich posiadanych oświadczeń w ustawowym terminie jest obowiązkowe.
 
