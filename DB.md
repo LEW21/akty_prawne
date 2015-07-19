@@ -43,34 +43,49 @@ TODO
    b. adnotację "Fałszowanie list podpisów, oferowanie lub przyjmowanie korzyści majątkowych w związku ze zbieraniem podpisów, a także niszczenie lub celowe niedostarczenie list podpisów Państwowej Komisji Wyborczej w ustawowym terminie - jest przestępstwem."
 
 ### Art. W3. Podpis
-1. Uprawniony do głosowania udzielający poparcia wetu składa podpis obok czytelnie wpisanego swojego nazwiska, imienia i numeru ewidencyjnego PESEL.
+1. Uprawniony do głosowania zgłaszający weto składa podpis obok czytelnie wpisanego swojego nazwiska, imienia i numeru ewidencyjnego PESEL.
 2. Każdy uprawniony do głosowania może poprzeć dane weto tylko jeden raz.
 3. Podpis niespełniający wymienionych warunków zostanie uznany przez Państwową Komisję Wyborczą za nieważny.
 
 ### Art. W4. Zgłaszanie list podpisów
 1. Listy podpisów zgłasza się do Państwowej Komisji Wyborczej.
-2. Kolejne listy podpisów dot. jednego weta można zgłaszać wielokrotnie.
+2. Kolejne listy podpisów dot. weta jednej ustawy można zgłaszać wielokrotnie.
 3. Zgłaszającym jest osoba fizyczna. W zgłoszeniu podaje Państwowej Komisji wyborczej swoje nazwisko, imię, numer PESEL i adres korespondencyjny.
 4. Po każdym zgłoszeniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy podpisy, a następnie podaje w biuletynie informacji publicznej nazwisko zgłaszającego, a także liczbę ważnych i nieważnych podpisów, a także przekazuje tą informację na piśmie zgłaszającemu.
 5. Zgłoszenie wszystkich posiadanych list podpisów w ustawowym terminie jest obowiązkowe.
 
 ### Art. W5. Zakończenie okresu zgłaszania weta
-1. Niezwłocznie po zakończeniu okresu zgłaszania weta obywatelskiego i zakończeniu liczenia zgłoszonych podpisów, Państwowa Komisja Wyborcza ogłasza czy weto zgłosiła wystarczająca liczba uprawnionych do głosowania obywateli, i publikuje informację o tym w biuletynie informacji publicznej.
+1. Niezwłocznie po zakończeniu okresu zgłaszania weta obywatelskiego i zakończeniu liczenia zgłoszonych podpisów, Państwowa Komisja Wyborcza ogłasza czy weto zgłosiła sumarycznie wystarczająca liczba uprawnionych do głosowania obywateli, i publikuje informację o tym w biuletynie informacji publicznej.
 2. Jeśli weta nie zgłosiła wymagana liczba obywateli, ustawa może wejść w życie.
 3. Jeśli weto zgłosiła wymagana liczba obywateli, wejście w życie ustawy zostaje zawieszone do momentu przeprowadzenia referendum. Prezydent ogłasza referendum niezwłocznie, nie wcześniej jednak niż 60 dni po zakończeniu okresu zgłaszania weta.
 
 ### Art. W6. Referendum
 1. Pytanie referendalne brzmi "Czy popierasz przyjęcie ........... (tytuł aktu prawnego wraz z datą uchwalenia)?"
 2. Decyzja Narodu jest wiążąca niezależnie od liczby głosujących.
-3. Po przyjęciu ustawy w referendum, może ona wejść w życie.
+3. Po przyjęciu ustawy w referendum może ona wejść w życie.
 
 ## Rozdział 4. Przepisy karne
 
-TODO
+### Art. K1.
+1. Kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej na karcie podpisów niezawierającej wymaganej w art. W2 ust. 2 adnotacji  
+  - podlega grzywnie od 1000 do 5000 złotych.
+
+### Art. K2.
+1. Kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej, stosując groźbę, podstęp lub jakąkolwiek inną formę nacisków zmierzających do uzyskania podpisów  
+  - podlega grzywnie od 1000 do 10 000 złotych.
+2. Tej samej karze podlega, kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo oddziałów obrony cywilnej lub skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
+
+### Art. K3.
+3. Kto oferuje lub przyjmuje korzyść majątkową w zamian za zbieranie lub złożenie weta obywatelskiego lub podpisu poparcia inicjatywy obywatelskiej  
+  - podlega grzywnie od 10 000 do 50 000 złotych.
+
+### Art. K4.
+1. Kto niszczy lub celowo nie dostarcza w ustawowym terminie kart podpisów dot. weta obywatelskiego do Państwowej Komisji Wyborczej  
+  - podlega grzywnie od 1000 do 100 000 złotych.
 
 ## Rozdział 5. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-### Art. K1. Ustawa o referendum ogólnokrajowym
+### Art. Z1. Ustawa o referendum ogólnokrajowym
 W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2003 r. Nr 57, poz. 507, Nr 85, poz. 782, z 2007 r. Nr 112, poz. 766, z 2009 r. Nr 68, poz. 573, Nr 202, poz. 1547, z 2011 r. Nr 21, poz. 113, Nr 106, poz. 622, Nr 147, poz. 881.) wprowadza się następujące zmiany:
 
 1) art. 4 otrzymuje brzmienie:
@@ -87,3 +102,5 @@ W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2003 r.
 3) uchyla się art. 32
 
 4) uchyla się art. 60-79
+
+5) uchyla się art. 83
