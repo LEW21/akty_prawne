@@ -39,8 +39,8 @@ TODO
 4. Weto nie spełniające wszystkich wyżej wymienionych warunków jest nieważne.
 5. Oświadczenie może również zostać złożone na prawidłowo sporządzonej karcie podpisów weta.
 6. Wycofanie weta jest niemożliwe.
- 
-*Wyjaśnienie: Ust. 1. pozwala na zgłaszanie weta elektronicznie - zgodnie z art. 78. ust. 2. KC. Póki KC jest jaki jest - wymagany jest bezpieczny podpis elektroniczny z certyfikatem kwalifikowanym - lecz zgodnie z programem DB powinniśmy wprowadzić e-dowody i zmodyfikować odpowiednio KC.*
+
+*Wyjaśnienie: Ust. 1. pozwala na zgłaszanie weta elektronicznie - zgodnie z art. 78. ust. 2. KC. Wymagany jest bezpieczny podpis elektroniczny z certyfikatem kwalifikowanym - zgodnie z programem DB powinniśmy wprowadzić e-dowody realizujące ten wymóg.*
 
 ### Art. W2. Karta podpisów weta
 1. Karta podpisów weta musi zawierać:  
@@ -72,7 +72,7 @@ TODO
 ## Rozdział 4. Przepisy karne
 
 ### Art. K1.
-1. Kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej na karcie podpisów niezawierającej wymaganej w art. W2 ust. 2 adnotacji  
+1. Kto zbiera weta obywateli lub podpisy poparcia inicjatywy obywatelskiej na karcie podpisów niezawierającej wymaganej w art. W2 ust. 1. pkt. b. adnotacji  
   - podlega grzywnie od 1000 do 5000 złotych.
 
 ### Art. K2.
