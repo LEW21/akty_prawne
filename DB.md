@@ -33,29 +33,34 @@ TODO
 ## Rozdział 3. Weto obywatelskie
 
 ### Art. W1. Sposób zgłaszania weta
-1. Weto obywatele zgłaszają przez złożenie prawidłowego podpisu na prawidłowo sporządzonej karcie podpisów w ustawowym terminie.
+1. Weto uprawniony do głosowania obywatel zgłasza w drodze oświadczenia w formie pisemnej "Sprzeciwiam się przyjęciu ..........." (tytuł aktu prawnego wraz z datą uchwalenia) z podaniem swojego imienia, nazwiska i numeru PESEL, przekazanego Państwowej Komisji Wyborczej w ustawowym terminie.
 2. Weto dotyczy dokładnie jednej ustawy.
-3. Wycofanie weta jest niemożliwe.
+3. Weto wobec jednej ustawy obywatel może zgłosić tylko jeden raz.
+4. Weto nie spełniające wszystkich wyżej wymienionych warunków jest nieważne.
+5. Oświadczenie może również zostać złożone na prawidłowo sporządzonej karcie podpisów weta.
+6. Wycofanie weta jest niemożliwe.
+ 
+*Wyjaśnienie: Ust. 1. pozwala na zgłaszanie weta elektronicznie - zgodnie z art. 78. ust. 2. KC. Póki KC jest jaki jest - wymagany jest bezpieczny podpis elektroniczny z certyfikatem kwalifikowanym - lecz zgodnie z programem DB powinniśmy wprowadzić e-dowody i zmodyfikować odpowiednio KC.*
 
-### Art. W2. Karta podpisów
+### Art. W2. Karta podpisów weta
 1. Karta podpisów weta musi zawierać:  
-   a. adnotację "Sprzeciwiam się przyjęciu ........... (tytuł aktu prawnego wraz z datą uchwalenia)";  
-   b. adnotację "Fałszowanie list podpisów, oferowanie lub przyjmowanie korzyści majątkowych w związku ze zbieraniem podpisów, a także niszczenie lub celowe niedostarczenie list podpisów Państwowej Komisji Wyborczej w ustawowym terminie - jest przestępstwem."
-
-### Art. W3. Podpis
-1. Uprawniony do głosowania zgłaszający weto składa podpis obok czytelnie wpisanego swojego nazwiska, imienia i numeru ewidencyjnego PESEL.
-2. Każdy uprawniony do głosowania może poprzeć dane weto tylko jeden raz.
+   a. tytuł "Sprzeciwiam się przyjęciu ..........." (tytuł aktu prawnego wraz z datą uchwalenia);  
+   b. adnotację "Fałszowanie kart podpisów, oferowanie lub przyjmowanie korzyści majątkowych w związku ze zbieraniem podpisów, a także niszczenie lub celowe niedostarczenie kart podpisów Państwowej Komisji Wyborczej w ustawowym terminie - jest przestępstwem."
+2. Obywatel zgłaszający weto na karcie podpisów składa podpis obok czytelnie wpisanego swojego imienia, nazwiska i numeru PESEL.
 3. Podpis niespełniający wymienionych warunków zostanie uznany przez Państwową Komisję Wyborczą za nieważny.
 
-### Art. W4. Zgłaszanie list podpisów
-1. Listy podpisów zgłasza się do Państwowej Komisji Wyborczej.
-2. Kolejne listy podpisów dot. weta jednej ustawy można zgłaszać wielokrotnie.
-3. Zgłaszającym jest osoba fizyczna. W zgłoszeniu podaje Państwowej Komisji wyborczej swoje nazwisko, imię, numer PESEL i adres korespondencyjny.
-4. Po każdym zgłoszeniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy podpisy, a następnie podaje w biuletynie informacji publicznej nazwisko zgłaszającego, a także liczbę ważnych i nieważnych podpisów, a także przekazuje tą informację na piśmie zgłaszającemu.
-5. Zgłoszenie wszystkich posiadanych list podpisów w ustawowym terminie jest obowiązkowe.
+### Art. W3. Przekazywanie weta do PKW
+1. Oświadczenia dot. weta przekazuje się Państwowej Komisji Wyborczej.
+2. Kolejne oświadczenia można przekazywać wielokrotnie.
+3. Przekazującym jest osoba fizyczna.
+4. W przypadku jednorazowego przekazania pakietu ponad 100 oświadczeń, przekazujący podaje Państwowej Komisji wyborczej swoje imię, nazwisko, numer PESEL i adres korespondencyjny.
+5. Po każdym przekazaniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy oświadczenia, a następnie:  
+  a) jeżeli oświadczenia były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej imię i nazwisko przekazującego, a także liczbę ważnych i nieważnych oświadczeń, a także przekazuje tą informację na piśmie zgłaszającemu;  
+  b) jeśli oświadczenia nie były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej sumaryczną liczbę ważnych oświadczeń przekazanych danego dnia.
+6. Przekazanie Państwowej Komisji Wyborczej wszystkich posiadanych oświadczeń w ustawowym terminie jest obowiązkowe.
 
 ### Art. W5. Zakończenie okresu zgłaszania weta
-1. Niezwłocznie po zakończeniu okresu zgłaszania weta obywatelskiego i zakończeniu liczenia zgłoszonych podpisów, Państwowa Komisja Wyborcza ogłasza czy weto zgłosiła sumarycznie wystarczająca liczba uprawnionych do głosowania obywateli, i publikuje informację o tym w biuletynie informacji publicznej.
+1. Niezwłocznie po zakończeniu okresu zgłaszania weta obywatelskiego i zakończeniu liczenia zgłoszonych oświadczeń, Państwowa Komisja Wyborcza ogłasza czy weto zgłosiła sumarycznie wystarczająca liczba uprawnionych do głosowania obywateli, i publikuje informację o tym w biuletynie informacji publicznej.
 2. Jeśli weta nie zgłosiła wymagana liczba obywateli, ustawa może wejść w życie.
 3. Jeśli weto zgłosiła wymagana liczba obywateli, wejście w życie ustawy zostaje zawieszone do momentu przeprowadzenia referendum. Prezydent ogłasza referendum niezwłocznie, nie wcześniej jednak niż 60 dni po zakończeniu okresu zgłaszania weta.
 
