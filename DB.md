@@ -46,8 +46,8 @@
   d. projekt Konstytucji, ustawy, zmian w Konstytucji lub opis ogólnej propozycji - zgodnie z formą inicjatywy,  
   e. ocena skutków dla budżetu przyjęcia inicjatywy, wraz z proponowanymi źródłami finansowania jeśli są one negatywne
 3. Trybunał Konstytucyjny wydaje potwierdzenie zgłoszenia inicjatywy.
-4. Trybunał Konstytucyjny w ciągu 30 dni weryfikuje poprawność inicjatywy według art. I1. Jeżeli zweryfikuje ją negatywnie - ogłasza nieważność inicjatywy w drodze uchwały.
-5. Jeżeli w ciągu 30 dni nie podejmie uchwały o uznaniu inicjatywy za nieważną - inicjatywa zostaje uznana za poprawną, i rozpoczyna się 18-miesięczny okres zbierania pod inicjatywą poparcia obywateli.
+4. Trybunał Konstytucyjny w ciągu 60 dni weryfikuje poprawność inicjatywy według art. I1. Jeżeli zweryfikuje ją negatywnie - ogłasza nieważność inicjatywy w drodze uchwały.
+5. Jeżeli w ciągu 60 dni nie podejmie uchwały o uznaniu inicjatywy za nieważną - inicjatywa zostaje uznana za poprawną, i rozpoczyna się 18-miesięczny okres zbierania pod inicjatywą poparcia obywateli.
 
 ### Art. I3. Zakończenie okresu popierania inicjatywy
 1. Jeżeli Państwowa Komisja Wyborcza ogłosiła porażkę inicjatywy, bieg inicjatywy zostaje zakończony.
