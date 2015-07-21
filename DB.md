@@ -114,12 +114,13 @@
 3. Przekazującym oświadczenie jest osoba fizyczna.
 4. W przypadku jednorazowego przekazania pakietu ponad 100 oświadczeń dot. poparcia jednej inicjatywy lub weta wobec jednej ustawy, przekazujący podaje Państwowej Komisji wyborczej swoje imię, nazwisko, numer PESEL i adres korespondencyjny.
 5. Po każdym przekazaniu, Państwowa Komisja Wyborcza niezwłocznie weryfikuje i liczy oświadczenia, a następnie:  
-  a) jeżeli oświadczenia były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej imię i nazwisko przekazującego, a także liczbę ważnych i nieważnych oświadczeń, a także przekazuje tą informację na piśmie zgłaszającemu;  
-  b) jeśli oświadczenia nie były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej sumaryczną liczbę ważnych oświadczeń przekazanych danego dnia.
+  a) jeżeli oświadczenia były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej imię i nazwisko przekazującego, a także liczbę ważnych i nieważnych oświadczeń, a także przekazuje tę informację na piśmie zgłaszającemu;  
+  b) jeżeli oświadczenia nie były przekazane w pakiecie ponad 100 oświadczeń - podaje w biuletynie informacji publicznej sumaryczną liczbę ważnych oświadczeń przekazanych danego dnia.
 6. Przekazanie Państwowej Komisji Wyborczej wszystkich posiadanych oświadczeń w ustawowym terminie jest obowiązkowe.
 
-### Art. P5. Sukces lub porażka weta lub inicjatywy
-Niezwłocznie po zakończeniu okresu zgłaszania weta lub popierania inicjatywy i zakończeniu liczenia zgłoszonych oświadczeń, lub po zliczeniu wymaganej ustawowo liczby oświadczeń, Państwowa Komisja Wyborcza ogłasza czy dana inicjatywa lub weto odniosły sukces (tj. poparcie lub weto zgłosiła sumarycznie wystarczająca liczba uprawnionych obywateli) czy porażkę, i publikuje informację o tym w biuletynie informacji publicznej.
+### Art. P5. Sukces lub porażka inicjatywy lub weta
+Niezwłocznie po zakończeniu okresu popierania inicjatywy lub zgłaszania weta
+i zakończeniu liczenia zgłoszonych oświadczeń, lub po zliczeniu wymaganej ustawowo liczby oświadczeń, Państwowa Komisja Wyborcza ogłasza czy dana inicjatywa lub weto odniosły sukces (tj. poparcie lub weto zgłosiła sumarycznie wystarczająca liczba uprawnionych obywateli) czy porażkę, i publikuje informację o tym w biuletynie informacji publicznej.
 
 ## Rozdział 5. Przepisy karne
 
