@@ -1,6 +1,6 @@
 # O bezpośrednim sprawowaniu władzy przez obywateli
 
-## Rozdział 1. Władza bezpośrednia
+## Rozdział 1. Demokracja bezpośrednia
 
 ### Art. 1.
 1. Ustawa reguluje sposób bezpośredniego sprawowania władzy przez Naród, o którym mowa w art. 4. ust. 2 Konstytucji Rzeczypospolitej Polskiej.
